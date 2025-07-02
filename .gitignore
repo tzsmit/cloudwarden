@@ -1,1 +1,6 @@
 awscliv2.zip
+aws/
+venv/
+*.pyc
+__pycache__/
+

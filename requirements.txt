@@ -1,0 +1,5 @@
+boto3
+typer
+rich
+pytest
+moto
