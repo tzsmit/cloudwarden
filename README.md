@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+![Tests](https://img.shields.io/badge/tests-passing-green.svg)
+
 # ☁️ CloudWarden
 
 **CloudWarden** is a Python-based AWS IAM audit tool that checks for common misconfigurations such as:
